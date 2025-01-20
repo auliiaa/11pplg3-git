@@ -1,10 +1,11 @@
 ini adalah resolusi pplg 3 untuk belajar git
 
 - Konsisten belajar git dan mengerjakan tugas git dan github
-
+-
 - praktik git
 - belajar basis data 
-- -* the moviedb.org
-- api filmthedb
+- Api
+  * the moviedb.org
+  * api filmthedb
 - dokumentasi
 - projek video streaming
